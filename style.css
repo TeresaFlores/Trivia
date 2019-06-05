@@ -1,0 +1,26 @@
+#respuesta{
+  visibility: hidden;
+}
+body{
+  background: url(https://2.bp.blogspot.com/-XuNlTcNejeA/V-PLpwTBU0I/AAAAAAAASOc/-oRZ3EizTWI5CQIyGyAiFsyWT0qyDIMlwCLcB/s1600/FONDO25ANI.JPG);
+}
+h1{
+
+  text-align: center;
+  font-size: 40 px;
+  background: #DE98FA;
+  color: #193BD5;
+  border: 5px groove #193BD5;
+}
+h2{
+  text-align: center;
+  font-size: 10 px;
+  background: rgb(159, 221, 15);
+  color: rgb(7, 134, 71);
+  border: 5px solid;
+}
+
+p{
+  font-size: 30 px;
+  font-family: 'Franklin Gothic Medium';
+}
